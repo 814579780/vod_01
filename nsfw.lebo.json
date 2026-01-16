@@ -1,0 +1,10 @@
+{
+  "name": "乐播",
+  "type": 0,
+  "api": "https://lebozy.com/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "nsfw": true, // 是否为 NSFW 内容
+  "categories": []
+}
