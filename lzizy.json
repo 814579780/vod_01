@@ -1,0 +1,10 @@
+{
+  "name": "量子资源站",
+  "type": 0,
+  "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "nsfw": false,
+  "categories": []
+}
