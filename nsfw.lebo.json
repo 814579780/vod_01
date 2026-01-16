@@ -1,7 +1,7 @@
 {
   "name": "乐播",
   "type": 0,
-  "api": "https://lebozy.com/",
+  "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
